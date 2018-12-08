@@ -41,7 +41,7 @@
 		94D95E1F21BC5E4A00800868 = {
 			isa = PBXGroup;
 			children = (
-				94D95E2A21BC5E4A00800868 /* Algorithmen_und_Datenstrukturen */,
+				94D95E2A21BC5E4A00800868 /* P1 Tweets */,
 				94D95E2921BC5E4A00800868 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -54,12 +54,12 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		94D95E2A21BC5E4A00800868 /* Algorithmen_und_Datenstrukturen */ = {
+		94D95E2A21BC5E4A00800868 /* P1 Tweets */ = {
 			isa = PBXGroup;
 			children = (
 				94D95E2B21BC5E4A00800868 /* main.cpp */,
 			);
-			path = Algorithmen_und_Datenstrukturen;
+			path = "P1 Tweets";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
