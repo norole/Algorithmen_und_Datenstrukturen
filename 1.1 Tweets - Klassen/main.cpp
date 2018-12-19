@@ -9,7 +9,7 @@
 #include <iostream>
 
 int main(int argc, const char * argv[]) {
-	// test sync from VS
+	// test sync from VS 2.
     std::cout << "Hello, World!\n";
     return 0;
 }
